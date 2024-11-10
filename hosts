@@ -1,0 +1,2 @@
+[docker_server]
+54.197.169.100  ansible_ssh_private_key_file=../wael.pem   ansible_user=ec2-user
